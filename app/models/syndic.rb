@@ -1,0 +1,2 @@
+class Syndic < ApplicationRecord
+end
